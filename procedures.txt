@@ -1,0 +1,17 @@
+1) Install BREW (in MacOS) via terminal => https://brew.sh/
+
+2) Install Git => https://git-scm.com/download/mac
+
+3) Register GitHub account => https://github.com/
+
+4) Install GitHub-Desktop (Git GUI) => https://git-scm.com/downloads/guis
+
+5) Initialize project and setup remote configuration
+
+6) Add, commit, and push source code to GitHub reposiroty
+
+7) Create GitHub Page (Deploying website)
+
+8) Change some code in repository
+
+9) Push code again
